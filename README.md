@@ -22,6 +22,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 #### Hojas de Trucos
 - [Git Cheat Sheet - NDP Software](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace): Un recurso visual interactivo que explica los diferentes comandos de Git y cómo se relacionan entre sí en el flujo de trabajo de Git.
 - [Git by Example - Anton Z](https://antonz.org/git-by-example/): Un recurso basado en ejemplos prácticos que detalla el uso de Git paso a paso y ofrece referencias rápidas a comandos y prácticas comunes.
+- [Git Inmmersion](https://gitimmersion.com/lab_04.html): En resumen practico con casos de uso concretos de como y cuando aplicar ciertos comandos git
 
 #### Tutoriales
 <!-- Aquí puedes agregar más enlaces a tutoriales -->
