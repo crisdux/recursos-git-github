@@ -5,8 +5,8 @@ Este repositorio recopila una serie de recursos web útiles para aprender y prof
 ## Contenidos
 - [Introducción](#introducción)
 - [Recursos](#recursos)
-  - [Hojas de Trucos](#hojas-de-trucos)
-  - [Tutoriales](#tutoriales)
+  - [Recursos Web](#recursos-web)
+  - [Herramientas para desarrolladores](#herramientas-desarrollo)
   - [Videos](#videos)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
@@ -19,13 +19,13 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 
 ### Recursos
 
-#### Hojas de Trucos
+#### Recursos web
 - [Git Cheat Sheet - NDP Software](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace): Un recurso visual interactivo que explica los diferentes comandos de Git y cómo se relacionan entre sí en el flujo de trabajo de Git.
 - [Git by Example - Anton Z](https://antonz.org/git-by-example/): Un recurso basado en ejemplos prácticos que detalla el uso de Git paso a paso y ofrece referencias rápidas a comandos y prácticas comunes.
 - [Git Inmmersion](https://gitimmersion.com/lab_04.html): En resumen practico con casos de uso concretos de como y cuando aplicar ciertos comandos git
 
-#### Tutoriales
-<!-- Aquí puedes agregar más enlaces a tutoriales -->
+#### Herramientas para desarrolladores 
+- [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automatica el archivo .gitignore para las tecnologias del proyecto con el que estes trabajando. Gratis y de código abierto.
 
 #### Videos
 <!-- Aquí puedes agregar más enlaces a videos útiles -->
