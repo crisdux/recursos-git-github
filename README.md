@@ -30,7 +30,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 
 #### Videos
 <!-- Aquí puedes agregar más enlaces a videos útiles -->
-
+- [¿Qué es git y como funciona? - EDTeam](https://www.youtube.com/watch?v=jGehuhFhtnE): video que explica lo básico de git y github desde 0 
 ### Contribuir
 
 Si tienes algún recurso que consideres útil, por favor siéntete libre de contribuir. Haz un fork de este repositorio, añade el recurso en la sección correspondiente y haz un pull request.
