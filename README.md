@@ -7,6 +7,7 @@ Este repositorio recopila una serie de recursos web útiles para aprender y prof
 - [Recursos](#recursos)
   - [Recursos Web](#recursos-web)
   - [Herramientas para desarrolladores](#herramientas-desarrollo)
+  - [Clientes graficos](#clientes)
   - [Videos](#videos)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
@@ -27,6 +28,10 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 #### Herramientas para desarrolladores 
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automatica el archivo .gitignore para las tecnologias del proyecto con el que estes trabajando. Gratis y de código abierto.
 - [Source Tree App](https://www.sourcetreeapp.com/): un cliente para git donde puedes ver todo proyecto de manera grafica
+
+#### Cientes graficos 
+-[Git Kraken](https://www.gitkraken.com/): cliente gratis que permite visualizar de mamenra elegante, concisa y minimalista todos tus reposiorios
+
 
 #### Videos
 <!-- Aquí puedes agregar más enlaces a videos útiles -->
