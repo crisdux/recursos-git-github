@@ -40,6 +40,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [¿Qué es git y como funciona? - EDTeam](https://www.youtube.com/watch?v=jGehuhFhtnE): video que explica lo básico de git y github desde 0 
 - [Aprende git ahora - Hola Mundo](https://www.youtube.com/watch?v=VdGzPZ31ts8): tutorial intensivo de una hora repasando los comandos mas básicos de git
 - [Curso de git desde 0 - FreeCodeCampEspañol](https://www.youtube.com/watch?v=h2ZzlNVl-nI): curso básico de github en español
+- [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s): curso basico de git y github por moure dev 
 ### Contribuir
 
 Si tienes algún recurso que consideres útil, por favor siéntete libre de contribuir. Haz un fork de este repositorio, añade el recurso en la sección correspondiente y haz un pull request.
