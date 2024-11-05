@@ -32,7 +32,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 #### Cientes graficos 
 - [Rela Git](https://rela.dev/download): cliente sencillo y open source 
 
-- [Source Tree App](https://www.sourcetreeapp.com/): un cliente para git donde puedes ver todo proyecto de manera grafica
+- [Source Tree App](https://www.sourcetreeapp.com/): un cliente para git donde puedes ver todo proyecto de manera grafica y concisa 
 
 #### Videos
 <!-- Aquí puedes agregar más enlaces a videos útiles -->
