@@ -27,6 +27,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 
 #### Herramientas para desarrolladores
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automática el archivo `.gitignore` para las tecnologías del proyecto con el que estés trabajando. Gratis y de código abierto.
+- [Emoji cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/): lisa de emojis permitidos para usar en github 
 
 #### Clientes gráficos
 - [Rela Git](https://rela.dev/download): Cliente sencillo y de código abierto.
