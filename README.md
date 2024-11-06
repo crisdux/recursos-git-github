@@ -9,6 +9,7 @@ Este repositorio recopila una serie de recursos web útiles para aprender y prof
   - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
   - [Clientes gráficos](#clientes-gráficos)
   - [Videos](#videos)
+  - [Markdown](#markdown)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
 
@@ -27,7 +28,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 
 #### Herramientas para desarrolladores
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automática el archivo `.gitignore` para las tecnologías del proyecto con el que estés trabajando. Gratis y de código abierto.
-- [Emoji cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/): lisa de emojis permitidos para usar en github 
+- [Emoji cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/): Lista de emojis permitidos para usar en GitHub.
 
 #### Clientes gráficos
 - [Rela Git](https://rela.dev/download): Cliente sencillo y de código abierto.
@@ -40,6 +41,11 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Curso de Git desde 0 - FreeCodeCamp Español](https://www.youtube.com/watch?v=h2ZzlNVl-nI): Curso básico de Git en español.
 - [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s): Curso básico de Git y GitHub por Moure Dev.
 - [La historia del control de versiones en el código](https://www.youtube.com/watch?v=KiZRXFJbG98): Breve historia de los sistemas de control de versiones desde los primeros intentos hasta Git y GitHub.
+
+#### Markdown
+- [Guía de Markdown en GitHub](https://guides.github.com/features/mastering-markdown/): Guía oficial de GitHub sobre cómo usar Markdown para documentar y dar formato a archivos de manera efectiva.
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/): Una hoja de trucos completa para aprender los elementos clave de Markdown y su sintaxis.
+- [Markdown Quiz](https://www.markdowntutorial.com/): Quiz interactivo de Markdown que te permite practicar cada elemento y ver cómo se muestra el formato.
 
 ### Contribuir
 
