@@ -48,6 +48,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Markdown Quiz](https://www.markdowntutorial.com/): Quiz interactivo de Markdown que te permite practicar cada elemento y ver cómo se muestra el formato.
 - [Markdown Hacks](https://www.markdownguide.org/hacks/): trucos útiles para hacer con markdown
 - [Marwdown para GitLab](https://docs.gitlab.com/ee/user/markdown.html): guía completa para usar markdown en gitlab 
+- [¿Cómo funciona markdown?](https://www.markdownguide.org/getting-started/): breve resumen de la historia y el funcionamiento de markdown 
 
 ### Contribuir
 
