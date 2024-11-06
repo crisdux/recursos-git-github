@@ -31,7 +31,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 
 #### Cientes graficos 
 - [Rela Git](https://rela.dev/download): cliente sencillo y open source 
-
+- [Git Kraken](https://www.gitkraken.com/): cliente open source, robusto y estetico para administración de repositorios
 - [Source Tree App](https://www.sourcetreeapp.com/): un cliente para git donde puedes ver todo proyecto de manera grafica y concisa 
 
 #### Videos
