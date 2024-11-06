@@ -46,6 +46,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Guía de Markdown en GitHub](https://guides.github.com/features/mastering-markdown/): Guía oficial de GitHub sobre cómo usar Markdown para documentar y dar formato a archivos de manera efectiva.
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/): Una hoja de trucos completa para aprender los elementos clave de Markdown y su sintaxis.
 - [Markdown Quiz](https://www.markdowntutorial.com/): Quiz interactivo de Markdown que te permite practicar cada elemento y ver cómo se muestra el formato.
+- [Markdown Hacks](https://www.markdownguide.org/hacks/): trucos útiles para hacer con markdown
 
 ### Contribuir
 
