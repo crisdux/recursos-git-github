@@ -6,8 +6,8 @@ Este repositorio recopila una serie de recursos web útiles para aprender y prof
 - [Introducción](#introducción)
 - [Recursos](#recursos)
   - [Recursos Web](#recursos-web)
-  - [Herramientas para desarrolladores](#herramientas-desarrollo)
-  - [Clientes graficos](#clientes)
+  - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
+  - [Clientes gráficos](#clientes-gráficos)
   - [Videos](#videos)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
@@ -23,24 +23,23 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 #### Recursos web
 - [Git Cheat Sheet - NDP Software](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace): Un recurso visual interactivo que explica los diferentes comandos de Git y cómo se relacionan entre sí en el flujo de trabajo de Git.
 - [Git by Example - Anton Z](https://antonz.org/git-by-example/): Un recurso basado en ejemplos prácticos que detalla el uso de Git paso a paso y ofrece referencias rápidas a comandos y prácticas comunes.
-- [Git Inmmersion](https://gitimmersion.com/lab_04.html): En resumen practico con casos de uso concretos de como y cuando aplicar ciertos comandos git
+- [Git Immersion](https://gitimmersion.com/lab_04.html): En resumen práctico con casos de uso concretos de cómo y cuándo aplicar ciertos comandos de Git.
 
-#### Herramientas para desarrolladores 
-- [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automatica el archivo .gitignore para las tecnologias del proyecto con el que estes trabajando. Gratis y de código abierto.
+#### Herramientas para desarrolladores
+- [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automática el archivo `.gitignore` para las tecnologías del proyecto con el que estés trabajando. Gratis y de código abierto.
 
-
-#### Cientes graficos 
-- [Rela Git](https://rela.dev/download): cliente sencillo y open source 
-- [Git Kraken](https://www.gitkraken.com/): cliente open source, robusto y estetico para administración de repositorios
-- [Source Tree App](https://www.sourcetreeapp.com/): un cliente para git donde puedes ver todo proyecto de manera grafica y concisa 
+#### Clientes gráficos
+- [Rela Git](https://rela.dev/download): Cliente sencillo y de código abierto.
+- [Git Kraken](https://www.gitkraken.com/): Cliente de código abierto, robusto y estético para la administración de repositorios.
+- [SourceTree App](https://www.sourcetreeapp.com/): Un cliente para Git donde puedes ver todo el proyecto de manera gráfica y concisa.
 
 #### Videos
-<!-- Aquí puedes agregar más enlaces a videos útiles -->
-- [¿Qué es git y como funciona? - EDTeam](https://www.youtube.com/watch?v=jGehuhFhtnE): video que explica lo básico de git y github desde 0 
-- [Aprende git ahora - Hola Mundo](https://www.youtube.com/watch?v=VdGzPZ31ts8): tutorial intensivo de una hora repasando los comandos mas básicos de git
-- [Curso de git desde 0 - FreeCodeCampEspañol](https://www.youtube.com/watch?v=h2ZzlNVl-nI): curso básico de github en español
-- [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s): curso basico de git y github por moure dev 
-- [La historia del control de versiones en el código](https://www.youtube.com/watch?v=KiZRXFJbG98): breve historia de los sistemas de control de versiones desde los primeros intentos hasta git y github
+- [¿Qué es git y cómo funciona? - EDTeam](https://www.youtube.com/watch?v=jGehuhFhtnE): Video que explica lo básico de Git y GitHub desde 0.
+- [Aprende Git ahora - Hola Mundo](https://www.youtube.com/watch?v=VdGzPZ31ts8): Tutorial intensivo de una hora repasando los comandos más básicos de Git.
+- [Curso de Git desde 0 - FreeCodeCamp Español](https://www.youtube.com/watch?v=h2ZzlNVl-nI): Curso básico de Git en español.
+- [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s): Curso básico de Git y GitHub por Moure Dev.
+- [La historia del control de versiones en el código](https://www.youtube.com/watch?v=KiZRXFJbG98): Breve historia de los sistemas de control de versiones desde los primeros intentos hasta Git y GitHub.
+
 ### Contribuir
 
 Si tienes algún recurso que consideres útil, por favor siéntete libre de contribuir. Haz un fork de este repositorio, añade el recurso en la sección correspondiente y haz un pull request.
