@@ -44,6 +44,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s): Curso básico de Git y GitHub por Moure Dev.
 - [La historia del control de versiones en el código](https://www.youtube.com/watch?v=KiZRXFJbG98): Breve historia de los sistemas de control de versiones desde los primeros intentos hasta Git y GitHub.
 - [Curso de git - FreeCodeCamp(ingles) + 4 horas de contenido gratis](https://www.youtube.com/watch?v=zTjRZNkhiEU): curso intensivo de git en ingles
+- [Curso de git - midudev](https://www.youtube.com/watch?v=niPExbK8lSw): curso gratis y básico de git por midudev 
 
 #### Markdown 👽
 - [Guía de Markdown en GitHub](https://guides.github.com/features/mastering-markdown/): Guía oficial de GitHub sobre cómo usar Markdown para documentar y dar formato a archivos de manera efectiva.
