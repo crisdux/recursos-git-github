@@ -27,6 +27,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Git Cheat Sheet - NDP Software](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace): Un recurso visual interactivo que explica los diferentes comandos de Git y cómo se relacionan entre sí en el flujo de trabajo de Git.
 - [Git by Example - Anton Z](https://antonz.org/git-by-example/): Un recurso basado en ejemplos prácticos que detalla el uso de Git paso a paso y ofrece referencias rápidas a comandos y prácticas comunes.
 - [Git Immersion](https://gitimmersion.com/lab_04.html): En resumen práctico con casos de uso concretos de cómo y cuándo aplicar ciertos comandos de Git.
+- [Git lista de comandos más usados](https://dev.to/duxtech/git-cheat-sheet-4le1): cheetsheet propio elevorado en un post de devto.
 
 #### Herramientas para desarrolladores 🛠️
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automática el archivo `.gitignore` para las tecnologías del proyecto con el que estés trabajando. Gratis y de código abierto.
