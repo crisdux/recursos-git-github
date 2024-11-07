@@ -36,6 +36,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Rela Git](https://rela.dev/download): Cliente sencillo y de código abierto.
 - [Git Kraken](https://www.gitkraken.com/): Cliente de código abierto, robusto y estético para la administración de repositorios.
 - [SourceTree App](https://www.sourcetreeapp.com/): Un cliente para Git donde puedes ver todo el proyecto de manera gráfica y concisa.
+- [Gitk](https://git-scm.com/docs/gitk): es un cliente que viene por defecto al momento de instalar git, es muy básico y no muy visual, pero funciona muy bien.
 
 #### Videos 📹
 - [¿Qué es git y cómo funciona? - EDTeam](https://www.youtube.com/watch?v=jGehuhFhtnE): Video que explica lo básico de Git y GitHub desde 0.
