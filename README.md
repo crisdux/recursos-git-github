@@ -31,6 +31,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Entendiendo git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase): guía practica y terorica para entender los fundamentos de git rebase, tipos de rebase, cuando usarlo, etc. 
 - [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing): comprende los conceptos de rebase y merge, cuando usar uno u el otro, etc.
 - [Visualizing Git](https://git-school.github.io/visualizing-git/#free): herramienta que tranforma los comandos git que hagas en grafos interactivos para comprender a profundidad y graficamente el uso de git y github. 
+- [¿Qué es un contro de versiones y como funciona?](https://www.freecodecamp.org/espanol/news/git-vs-github-what-is-version-control-and-how-does-it-work/): blog en español de freecodecamp donde te enseña las bases teoricas de los que es un sistema de control distrubuido y como funciona en la practica
 
 #### Herramientas para desarrolladores 🛠️
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automática el archivo `.gitignore` para las tecnologías del proyecto con el que estés trabajando. Gratis y de código abierto.
