@@ -50,6 +50,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Curso de git - FreeCodeCamp(ingles) + 4 horas de contenido gratis](https://www.youtube.com/watch?v=zTjRZNkhiEU): curso intensivo de git en ingles
 - [Curso de git - midudev](https://www.youtube.com/watch?v=niPExbK8lSw): curso gratis y básico de git por midudev 
 - [Aprende Git con Fazt](https://www.youtube.com/watch?v=HiXLkL42tMU): Fazt es uno de los principales creadores de contenido de habla hispana, este es uno de los primeros videos que estudie para aprender git, si bien es algo viejo aun es útil sobre todo para princiantes. 
+- [Curso de git y github by SergiCode](https://www.youtube.com/watch?v=7ylE8cm3mb0&t=6369s): Sergi Code es un creador de contenido argentino que aporta a la comunidad variedad de videos sobre diversas tecnologias, en este caso sobre git y github
 
 #### Markdown 👽
 - [Guía de Markdown en GitHub](https://guides.github.com/features/mastering-markdown/): Guía oficial de GitHub sobre cómo usar Markdown para documentar y dar formato a archivos de manera efectiva.
