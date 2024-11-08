@@ -34,6 +34,8 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [¿Qué es un contro de versiones y como funciona?](https://www.freecodecamp.org/espanol/news/git-vs-github-what-is-version-control-and-how-does-it-work/): blog en español de freecodecamp donde te enseña las bases teoricas de los que es un sistema de control distrubuido y como funciona en la practica
 - [git stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash): que es, paa que sirve y cuando usar el stach de git para poner en pausa nuestro trabajo y continuarlo mas tarde. 
 - [git reflog](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog): aprende este poderoso comnado de git para recuperar commits que creias perdidos, no olvides que git guarda todo. 
+- [10 comandos git que deberias saber](https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/): resumen de los 10 comandos mas importantes que debes dominar en git
+- [7 comandos git que no conocias](https://www.freecodecamp.org/espanol/news/git-commandos-podrias-no-conocer/): resumen de 7 comandos git que necesitas saber 
 
 #### Herramientas para desarrolladores 🛠️
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automática el archivo `.gitignore` para las tecnologías del proyecto con el que estés trabajando. Gratis y de código abierto.
