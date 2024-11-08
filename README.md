@@ -30,6 +30,7 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Git lista de comandos más usados](https://dev.to/duxtech/git-cheat-sheet-4le1): cheetsheet propio elevorado en un post de devto.
 - [Entendiendo git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase): guía practica y terorica para entender los fundamentos de git rebase, tipos de rebase, cuando usarlo, etc. 
 - [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing): comprende los conceptos de rebase y merge, cuando usar uno u el otro, etc.
+- [Visualizing Git](https://git-school.github.io/visualizing-git/#free): herramienta que tranforma los comandos git que hagas en grafos interactivos para comprender a profundidad y graficamente el uso de git y github. 
 
 #### Herramientas para desarrolladores 🛠️
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): Genera de manera automática el archivo `.gitignore` para las tecnologías del proyecto con el que estés trabajando. Gratis y de código abierto.
