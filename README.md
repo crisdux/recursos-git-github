@@ -12,6 +12,7 @@ Este repositorio recopila una serie de recursos web útiles para aprender y prof
   - [Clientes gráficos](#clientes-gráficos)
   - [Videos](#videos)
   - [Markdown](#markdown)
+  - [Pull Request](#pull-request)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
 
@@ -65,6 +66,9 @@ El control de versiones es una habilidad esencial para cualquier desarrollador. 
 - [Markdown Hacks](https://www.markdownguide.org/hacks/): trucos útiles para hacer con markdown, poco conocidos perp muy útiles
 - [Marwdown para GitLab](https://docs.gitlab.com/ee/user/markdown.html): guía completa para usar markdown en gitlab 
 - [¿Cómo funciona markdown?](https://www.markdownguide.org/getting-started/): breve resumen de la historia y el funcionamiento de markdown (solo para frikis 👽)
+
+#### Pull Request 😎
+- [¿Como hacer un pull request?](https://dev.to/duxtech/como-hacer-un-pull-request-a-github-4c9l): blog escrito por mi mismo enumenrando los pasos básicos para poder hacer un pull resquest de manera simple
 
 ### Contribuir ✨
 
