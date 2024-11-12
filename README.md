@@ -1,5 +1,23 @@
 # Recursos para Aprender Git y GitHub
 
+| Checkbox Experiments | [ ] unchecked header  | [x] checked header  |
+| ---------------------|:---------------------:|:-------------------:|
+| checkbox             | [ ] row               | [x] row             |
+
+- [x]
+
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 Este repositorio recopila una serie de recursos web útiles para aprender y profundizar en el uso de Git y GitHub. Aquí encontrarás enlaces a guías, hojas de trucos, tutoriales, videos y artículos que te ayudarán a mejorar tus habilidades en control de versiones.
 
 ![git-github](https://miro.medium.com/max/2732/1*mtsk3fQ_BRemFidhkel3dA.png)
